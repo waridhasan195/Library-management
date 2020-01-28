@@ -1,0 +1,1 @@
+ In this project trying to automate library daily work tasks by a computer. Like book issues, book return, librarian information stored in the database. In this, I use the OOP concept for implementation and use java swing for GUI. 
